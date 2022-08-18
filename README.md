@@ -6,3 +6,6 @@
 •	Analyzed the main and interaction effect of critical factors such as the value of S, s, and cycle service level (CSL)
 
 •	Implemented simulation optimization to calculate maximum mean monthly profit such that CSL>95%
+
+### Collaborated by-
+Vaibhav Singh Panwar https://github.com/PanwaR1010
